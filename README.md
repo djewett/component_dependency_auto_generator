@@ -22,9 +22,9 @@ The current implementation attempts to find all dependencies for all schemas bef
 
 Currently the following schema fields are supported (as both regular fields and metadata fields):
 
-Text fields (including rich text fields)
-Date fields
-Number fields
-Component links
-Multimedia component links
-Embedded schemas
+* Text fields (including rich text fields)
+* Date fields
+* Number fields
+* Component links
+* Multimedia component links
+* Embedded schemas
